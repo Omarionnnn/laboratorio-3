@@ -11,7 +11,7 @@ const rock = " 🎸 Rock";
 const hardRock = "🤘 Hard Rock";
 const clásica = "🎼 Clásica";
 
-const estiloNombre = "font-weight: bold; font-size: larger; background-color; green";
+const estiloNombre = "font-weight: bold; font-size: larger; background-color: green";
 
 const grupoMusicalA: GruposMusicales= {
     nombre: "The Beatles",
